@@ -1,19 +1,27 @@
-# Solve-equation_S1_Task1
+# Documentation for solving equation
+
 Generating random equation, ask the user to answer the equation and display the result.
 
-User Manual
-Introduction
+## User Manual
+
+### Introduction
+
 This Python program generates simple equations with random numbers and displays them using a graphical user interface (GUI) created with Tkinter. The user is prompted to solve the equations, and their answers are checked for correctness. The program keeps track of the user’s score and displays the total score at the end.
-System requirements
-•	Python 3.12
-•	Tkinter library (usually included with Python)
-•	generate_random_equation module (custom module for generating equations and checking answers)
-Installation and setup
-1.	Download Python: If you don’t have Python installed, download it from python.org.
-2.	Install Tkinter: Tkinter is typically included with Python. If not, you can install it using the following command:
-3.	pip install tk
-4.	Install the generate_random_equation module if it’s not already available. This module should contain functions for generating random equations and checking answers.
-5.	Download the Program: Download the program files from the provided GitHub repository. (need to do this)
+
+### System requirements
+
+- Python 3.12
+- Tkinter library (usually included with Python)
+- generate_random_equation module (custom module for generating equations and checking answers)
+
+### Installation and setup
+
+1. Download Python: If you don’t have Python installed, download it from [official Python site](https://www.python.org/downloads/)
+2. Install Tkinter: Tkinter is typically included with Python. If not, you can install it using the following command:
+3. pip install tk
+4. Install the generate_random_equation module if it’s not already available. This module should contain functions for generating random equations and checking answers.
+5. Download the Program: Download the program files from the provided GitHub repository. (need to do this)
+6. 
 Running the Program
 	Using Command Line:
 1.	Save the provided code into a Python file, e.g., main_file_solve_equation.py.
